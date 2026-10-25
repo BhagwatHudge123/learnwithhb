@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LearnWithHB — local starter and EC2 deployment guide
 
 A responsive Flask + SQLite starter for the LearnWithHB learning-resource site. It includes a public home page, categories/search, document detail pages, account registration/login, admin uploads, free blog publishing, purchase-history screens, and Razorpay order/signature/payment checks. It is intentionally easy to run on Windows first and Ubuntu EC2 later.
@@ -295,3 +296,6 @@ Do not use `--delete` unless you understand the exclusions and have a backup. Ve
 - `.env.example` — configuration template; no real credentials
 - `requirements.txt` — Python dependencies
 - `uploads/` — local development uploads (do not publish private files)
+=======
+# learnwithhb
+>>>>>>> e195d4f8a6f9e19f6de5e515c7db1d72a35d692b
